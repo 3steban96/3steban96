@@ -23,34 +23,27 @@
 
 ---
 
-## 📈 Mis estadísticas
-
-![Tu nombre en las stats](https://github-readme-stats.vercel.app/api?username=3steban96&show_icons=true&theme=radical&hide=issues,prs)
-![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=3steban96&layout=compact&theme=radical)
-
----
-
 ## 📫 Cómo contactarme
 
 - 📧 Email: [andersonrodriguez748@gmail.com](andersonrodriguez748@gmail.com)
 - 💼 LinkedIn: [Anderson Rodriguez](https://www.linkedin.com/in/anderson-esteban-rodriguez-cruz-19a276125/)
 - 🌐 Portafolio: [codesteban.com](https://codesteban.com)
-
+- 🌐 Emprendimiento: [codevai.cloud](https://codevai.com) 
 ---
 
 ## ✨ Proyectos destacados
 
-1. **Fiapp**  
-   _Aplicación de finanzas personales para llevar un control de tus gastos e ingresos. Para saber más sobre el proyecto visita._  
-   [🔗 Ver website](https://fiapp.com.co)
+1. **BizLinguapp**  
+   _Una aplicación de enseñanza y practica de ingles laboral._  
+   [🔗 Ver website](https://play.google.com/store/apps/details?id=com.codevai.bizlinguapp)
 
-2. **ConvertFile**  
-   _Website donde se puede realizar conversion de imagenes a .webp ._  
-   [🔗 Ver website](https://convertfile.cloud)
+2. **Parking-system**  
+   _Website donde se Gestiona tu estacionamiento de forma simple y efectiva._  
+   [🔗 Ver website](https://parking-system.codevai.cloud/)
 
-3. **DownloadMusic**  
-   _Website donde se puede realizar descargas tanto de video o solo audio de links de youtube ._  
-   [🔗 Ver website](https://downloadmusic.cloud)
+3. **HSEQ-System**  
+   _Website donde se gestiona la seguridad, salud, medio ambiente y calidad de tu empresa de forma simple y efectiva._  
+   [🔗 Ver website](https://hseq-system.codevai.cloud/)
 
 ---
 
