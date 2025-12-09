@@ -45,6 +45,9 @@
    _Website donde se gestiona la seguridad, salud, medio ambiente y calidad de tu empresa de forma simple y efectiva._  
    [🔗 Ver website](https://hseq-system.codevai.cloud/)
 
+4. **AgendVital (Proximamente)**  
+   _App mobile donde se gestiona tu agenda de salud tanto personal como familiar potencializada con IA._  
+
 ---
 
 ### 🎯 ¿Inspirado para colaborar?
